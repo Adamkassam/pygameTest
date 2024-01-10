@@ -1,6 +1,14 @@
-Basic Start to a Rythm game
+Prerequisites
+Please make sure to install Python and Pygame before playing.
 
-Controls d,f,j,k for notes left to right d being furthest left and k beign furthest right
+Instructions
+Navigate to the project directory
 
-p is pause 
+Run the command python3 main.py
+
+Use Keys D,F,J,K to play the game
+
+p for pause
+
+Enjoy! 
 
